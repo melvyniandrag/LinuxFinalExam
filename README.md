@@ -1,6 +1,6 @@
 # Final Exam
 A little ncurses program that lends itself to a class github activity
-The exam ( exam2.c ) is a C program that uses ncurses.
+The exam ( finalexam.c ) is a C program that uses ncurses.
 
 ## To compile
 ```
