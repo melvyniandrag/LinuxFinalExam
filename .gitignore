@@ -1,0 +1,8 @@
+# Executable
+finalexam
+
+# Vim swap files
+*.sw?
+
+# Vim backup/undo files
+*~
