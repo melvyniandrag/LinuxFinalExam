@@ -1,0 +1,6 @@
+Which Git command is used to commit changes to the local repository with a descriptive message after the files have been staged?
+git save "message"
+git add .
+git push origin main
+git commit -m "message"
+4
