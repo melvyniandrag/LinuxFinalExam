@@ -1,0 +1,6 @@
+Which Git command stages all changes—including new (untracked), modified, and deleted files—across the entire repository?
+git add --new
+git add -A
+git commit -a
+git push --all
+2
