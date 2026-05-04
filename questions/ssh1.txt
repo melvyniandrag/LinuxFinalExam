@@ -1,0 +1,6 @@
+Which command is used to create a new SSH key?
+ssh-keygen
+ssh-create-key
+generate-ssh
+ssh-newkey
+1
