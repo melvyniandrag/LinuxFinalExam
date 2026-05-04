@@ -1,0 +1,6 @@
+What is the right flag to specify a custom field separator in awk?
+awk -d
+awk -F
+awk -sep
+awk -fs
+2

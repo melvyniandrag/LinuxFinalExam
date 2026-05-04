@@ -1,0 +1,5 @@
+Which of the following is NOT a use for awk?
+Text processing
+Data extraction
+Binary file processing
+Pattern matching
