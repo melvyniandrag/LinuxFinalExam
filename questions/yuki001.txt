@@ -1,0 +1,6 @@
+What does the command cd .. do?
+Moves to the root directory
+Moves to the previous command
+Moves up one directory level
+Deletes the current directory
+3
