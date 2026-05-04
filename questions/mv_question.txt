@@ -1,0 +1,6 @@
+what does the mv comand do in linux?
+move files faster. 
+rename files. 
+nothing.
+deletes the files after it moves the.
+1

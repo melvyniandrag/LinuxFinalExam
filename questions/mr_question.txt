@@ -1,0 +1,6 @@
+what does the rm command do in linux
+no diference 
+renames files
+deletes files and directories 
+copies files.
+3
