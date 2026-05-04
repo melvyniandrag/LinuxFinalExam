@@ -1,0 +1,6 @@
+Which command is used to copy your SSH public key to a remote server for authentication?
+ssh-copy-id
+scp-key
+ssh-add-key
+copy-ssh
+1

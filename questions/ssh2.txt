@@ -1,0 +1,6 @@
+What is the main purpose of an SSH public key?
+To encrypt your entire filesystem
+To authenticate you to a remote server
+To replace your system password permanently
+To store login history
+2
