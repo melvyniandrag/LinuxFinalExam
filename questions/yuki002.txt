@@ -1,0 +1,6 @@
+What does the -r option in cp -r mean?
+Rename the file
+Remove the file
+Copy directories recursively
+Read file contents
+3
